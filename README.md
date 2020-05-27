@@ -1,2 +1,2 @@
 # hello-github
-This is #066UK's first GitHub repository
+This is the first #066uk GitHub repository.
